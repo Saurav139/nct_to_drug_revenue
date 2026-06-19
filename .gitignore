@@ -1,0 +1,4 @@
+.env
+vectordb.pkl
+__pycache__/
+*.log
